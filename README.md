@@ -1,8 +1,9 @@
 # Grape Drink color scheme
+
 ## Hal Borland
 
-
-
+- grapedrink-ver2.kitty.conf
+- grapedrink-ver2.alacritty.yml
 - grapedrink.gnome-term.color
 - grapedrink.sublime.color
 - grapedrink-ver2.console.sh
